@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sesion5G2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="flash">Flash</string>
+    <string name="powersFlash">super speed, intangibility, superhuman agility</string>
+    <string name="batman">Batman</string>
+    <string name="powersBatman">exceptional martial artist, combat strategy, inexhaustible wealth, brilliant deductive skill, advanced technology</string>
+    <string name="superman">Superman</string>
+    <string name="powersSuperman">super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor</string>
+</resources>
